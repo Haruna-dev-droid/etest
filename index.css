@@ -146,6 +146,44 @@
     width: 375px;
     display: flex;
     flex-direction: column;
-    margin: 100%;
+    margin: -80px 0;
+  }
+  .firstrate {
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  .secondrate {
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  .thirdrate {
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+  .mainheading {
+    display: flex;
+    flex-direction: column;
+  }
+  .secondheading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+    margin: 0 10px;
+  }
+  .colton {
+    width: 90%;
+    margin: -0px auto;
+  }
+  #irene {
+    width: 90%;
+    margin: 30px auto;
+  }
+  .anne {
+    width: 90%;
+    margin: 0px auto;
   }
 }
