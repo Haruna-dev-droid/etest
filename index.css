@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kode+Mono:wght@400..700&family=League+Spartan:wght@100..900&family=Outfit:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+.mainheading {
+  display: flex;
+  justify-content: space-between;
+  margin: 80px auto;
+  width: 89%;
+  font-family: "League Spartan", serif;
+}
+.heading {
+  font-size: 20px;
+  color: hsl(300, 43%, 22%);
+}
+#firstpp {
+  font-size: 18px;
+}
+.firstrate {
+  display: flex;
+  margin: 60px -120px;
+  justify-content: space-around;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 5px;
+  width: 350px;
+  font-family: "League Spartan", serif;
+}
+.rateone {
+  margin: 15px 0;
+}
+.secondrate {
+  display: flex;
+  margin: -40px -60px;
+  justify-content: space-around;
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  border-radius: 5px;
+  font-family: "League Spartan", serif;
+}
+.ratetwo {
+  margin: 15px 0;
+}
+.thirdrate {
+  display: flex;
+  margin-top: 60px;
+  justify-content: space-around;
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  border-radius: 5px;
+  font-family: "League Spartan", serif;
+}
+.ratethree {
+  margin: 15px 0;
+}
+.secondheading {
+  margin: 0px 90px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin: 80px 65px;
+  width: 90%;
+  background-color: rgb(255, 255, 255);
+}
+
+.colton {
+  background-color: hsl(300, 43%, 22%);
+  width: 23%;
+  border-radius: 20px;
+  padding: 30px 30px;
+  font-family: "League Spartan", serif;
+}
+.coltonimg {
+  border-radius: 200px;
+}
+#coltonimagetext {
+  display: flex;
+}
+.h4colton {
+  padding: 0 20px;
+  color: white;
+}
+#irene {
+  background-color: hsl(300, 43%, 22%);
+  width: 23%;
+  border-radius: 20px;
+  padding: 30px 30px;
+  font-family: "League Spartan", serif;
+}
+.ireneimg {
+  border-radius: 200px;
+}
+#ireneimagetext {
+  display: flex;
+}
+.h4irene {
+  padding: 0 20px;
+  color: white;
+}
+.anne {
+  background-color: hsl(300, 43%, 22%);
+  width: 23%;
+  border-radius: 20px;
+  padding: 30px 30px;
+  font-family: "League Spartan", serif;
+}
+.anneimg {
+  border-radius: 200px;
+}
+#anneimagetext {
+  display: flex;
+}
+.h4anne {
+  padding: 0 20px;
+  color: white;
+}
+#coltonp {
+  padding: 20px 0;
+  color: white;
+  font-size: 15px;
+}
+#irenep {
+  padding: 20px 0;
+  color: white;
+  font-size: 15px;
+}
+#annep {
+  padding: 20px 0;
+  color: white;
+  font-size: 15px;
+}
+#h4span {
+  color: hsl(333, 80%, 67%);
+}
+#h4spann {
+  color: hsl(333, 80%, 67%);
+}
+#h4span2 {
+  color: hsl(333, 80%, 67%);
+}
+
+@media screen and (max-width: 375px) {
+  .container {
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+    margin: 100%;
+  }
+}
