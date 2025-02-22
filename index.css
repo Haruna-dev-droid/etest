@@ -21,6 +21,8 @@
   border-radius: 5px;
   width: 350px;
   font-family: "League Spartan", serif;
+  font-weight: bolder;
+  color: hsl(300, 43%, 22%);
 }
 .rateone {
   margin: 15px 0;
@@ -33,6 +35,8 @@
   width: 350px;
   border-radius: 5px;
   font-family: "League Spartan", serif;
+  font-weight: bolder;
+  color: hsl(300, 43%, 22%);
 }
 .ratetwo {
   margin: 15px 0;
@@ -45,6 +49,8 @@
   width: 350px;
   border-radius: 5px;
   font-family: "League Spartan", serif;
+  font-weight: bolder;
+  color: hsl(300, 43%, 22%);
 }
 .ratethree {
   margin: 15px 0;
